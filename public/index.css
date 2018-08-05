@@ -3,6 +3,7 @@ body,
 #map {
   margin: 0;
   padding: 0;
+  height: 100%;
 }
 
 .details-info {
@@ -18,6 +19,10 @@ body,
 .details-title {
   font-size: 1.3em;
   font-weight: bold;
+}
+
+.details-coordinates {
+  font-size: 0.8em;
 }
 
 .details-state {
